@@ -11,6 +11,6 @@
   },
   "meta": {
     "gasLimit": 9000,
-    "renewGasLimit": 20000
+    "renewGasLimit": 30000
   }
 }
